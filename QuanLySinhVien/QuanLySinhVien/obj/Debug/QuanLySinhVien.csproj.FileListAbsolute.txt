@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\bin\Debug\DB_QLSinhVien.mdf
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\bin\Debug\DB_QLSinhVien_log.ldf
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormDangNhap.resources
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormMain.resources
+C:\Users\DELL\Desktop\.NET\ADO_TongHop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormQLSinhVien.resources
